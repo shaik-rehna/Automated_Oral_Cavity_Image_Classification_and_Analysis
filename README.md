@@ -1,5 +1,6 @@
 # Automated Oral Cavity Image Classification and Analysis
-DH 307 R&amp;D Project, IIT Bombay
+### DH 307 R&amp;D Project, IIT Bombay
+#### Guide: Prof. Nirmal Punjabi, IIT Bombay
 
 This project implements a full deep learning pipeline for **oral cavity image classification** using the **Piyarathne et al. Oral Cavity dataset**. The goal is to classify images into **Healthy**, **OCA**, and **OPMD** categories using modern CNN and Transformer-based architectures.
 
